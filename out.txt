@@ -1,0 +1,70 @@
+Cycle: 1
+Core1 is running t5.
+Core2 is Idle.
+Core3 is running t2.
+Core4 is Idle.
+Cycle: 2
+Core1 is running t5.
+Core2 is Idle.
+Core3 is running t2.
+Core4 is Idle.
+Cycle: 3
+Core1 is running t5.
+Core2 is running t2.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 4
+Core1 is running t5.
+Core2 is running t2.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 5
+Core1 is running t5.
+Core2 is running t1.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 6
+Core1 is running t4.
+Core2 is running t1.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 7
+Core1 is running t4.
+Core2 is running t3.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 8
+Core1 is running t4.
+Core2 is running t3.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 9
+Core1 is running t4.
+Core2 is running t2.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 10
+Core1 is running t4.
+Core2 is running t2.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 11
+Core1 is running t1.
+Core2 is running t3.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 12
+Core1 is running t1.
+Core2 is running t3.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 13
+Core1 is running t2.
+Core2 is running t1.
+Core3 is Idle.
+Core4 is Idle.
+Cycle: 14
+Core1 is running t2.
+Core2 is Idle.
+Core3 is Idle.
+Core4 is Idle.
